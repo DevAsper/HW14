@@ -19,3 +19,5 @@
 ### Спасибо, что пользуетесь нашим ботом!<br>
 
 #### Команда разработки reminderWalk
+
+![logo](https://i.pinimg.com/564x/f3/cf/c9/f3cfc9a6f7162c90da1eae2a5d59613e.jpg)
